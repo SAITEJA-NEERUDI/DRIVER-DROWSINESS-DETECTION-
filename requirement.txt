@@ -1,8 +1,9 @@
+REQUIREMENTS FOR THE PROJECT "DRIVER DROWSINESS DETECTION USING VISUAL BEHAVIOUR AND MACHINE LEARNING".
 
 install cmake and set path
 C:\Program Files\CMake\bin
 
-install visval studio
+install visual studio
 select c++ development from workload tab then set path
 
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\bin\Hostx64\x64
